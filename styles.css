@@ -1,9 +1,18 @@
 body{
-    background: tan;
+    background: rgb(0, 0, 0);
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
-
+.assignment {
+    display: flex;
+    padding: 10px;
+    margin: 10px;
+    background: rgb(62, 71, 73);
+}
+.assignment img {
+    width: 200px;
+    padding: 10px;
+}
 h1{
-    color: darkslategrey;
+    color: rgb(174, 182, 134);
     text-align: center;
 }
